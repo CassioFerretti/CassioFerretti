@@ -2,7 +2,7 @@
 - 👋 Olá, Eu me chamo @CassioFerretti
 - 👀 Eu estudo no Instituto Federal Farroupilha Campus São Borja
 
-<div align="center">
+<div align="left">
   <a href="https://github.com/CassioFerretti">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CassioFerretti&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CassioFerretti&layout=compact&langs_count=7&theme=dracula"/>
@@ -13,7 +13,7 @@ CassioFerretti/CassioFerretti is a ✨ special ✨ repository because its `READM
 You can click the Preview link to take a look at your changes.
 --->
 
-
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=CassioFerretti&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&ring=DD2727)](https://git.io/streak-stats)
   <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
